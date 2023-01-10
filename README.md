@@ -11,24 +11,24 @@ To use any the setups, follow the steps bellow:
 
 ### void 🌀
 
-![Setup preview](assets/images/bspwm4-1.png)
+![Setup preview](assets/bspwm4-1.png)
 \
-![Setup preview](assets/images/bspwm4-2.png)
+![Setup preview](assets/bspwm4-2.png)
 
 ### blocky 🐱 - a [catppuccin](https://github.com/catppuccin/catppuccin) setup for bspwm
 
 To enjoy this setup even more, add the `.config/firefox` to your `~/.config` directory and setup its `index.html` as your default start page on Firefox.
 
-![Setup preview](assets/images/bspwm3-1.png)
+![Setup preview](assets/bspwm3-1.png)
 
 ### gruv1 - a [gruvbox](https://github.com/morhetz/gruvbox) setup for bspwm
 
-![Setup preview](assets/images/bspwm2-1.png)
+![Setup preview](assets/bspwm2-1.png)
 
 ### tuxppuccin 🐧 - a [catppuccin](https://github.com/catppuccin/catppuccin) inspired setup for bspwm
 
 To enjoy this setup even more, add the `.config/firefox` to your `~/.config` directory and setup its `index.html` as your default start page on Firefox.
 
-![Setup preview](assets/images/bspwm1-1.png)
+![Setup preview](assets/bspwm1-1.png)
 \
-![Setup preview](assets/images/bspwm1-2.png)
+![Setup preview](assets/bspwm1-2.png)
